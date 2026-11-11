@@ -5,3 +5,9 @@ compatibility_date = "2023-11-11"
 
 account_id = "c85d21195cb0b2dbc1558a899d84b20b"
 workers_dev = true
+
+[secrets]
+required = [
+  "CLIENT_ID",
+  "CLIENT_SECRET"
+]
