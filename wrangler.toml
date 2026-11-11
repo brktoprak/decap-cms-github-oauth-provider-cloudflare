@@ -1,7 +1,7 @@
-name = "decap-cms-github-oauth-api"
+name = "decap-cms-github-oauth-provider-cloudflare"
 main = "index.ts"
 
 compatibility_date = "2023-11-11"
 
-account_id = "c192ee4c911d964935f8f53ac8399ae9"
+account_id = "c85d21195cb0b2dbc1558a899d84b20b"
 workers_dev = true
